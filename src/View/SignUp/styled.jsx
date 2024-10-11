@@ -60,4 +60,5 @@ export const Botao = styled.TouchableOpacity`
     background-color: #6AD491;
     margin: 8px 0 190px;
     color: #fff;
+    z-index: 1;
 `;
